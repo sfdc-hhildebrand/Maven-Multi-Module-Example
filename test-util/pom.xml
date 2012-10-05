@@ -9,4 +9,11 @@
 	<artifactId>test-util</artifactId>
 	<name>Test Utility Module</name>
 	<description>The Test Utility Module</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.salesforce.example</groupId>
+			<artifactId>api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>

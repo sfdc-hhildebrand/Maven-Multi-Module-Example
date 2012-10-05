@@ -10,6 +10,7 @@
 	<modules>
 		<module>api</module>
 		<module>implementation</module>
+        <module>stand-alone</module>
 		<module>test-util</module>
 	</modules>
 	<build>
